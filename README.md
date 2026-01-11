@@ -1,6 +1,6 @@
-# 🔗 Free PDF Tools (Client-Side)
+# 🔗 Free PDF Tools (Client-Side & Web-Based)
 
-**Privacy-first PDF tools that run entirely in your browser**
+**Privacy-focused PDF tools built for fast and simple document conversions**
 
 [![Website](https://img.shields.io/badge/Website-pdflinx.com-red)](https://pdflinx.com)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -9,83 +9,114 @@
 
 ## 🌟 Why This Project?
 
-Most online PDF tools upload user files to their servers, which can raise
-**privacy and data security concerns**.
+Many online PDF tools require users to upload files to external servers,
+which can raise **privacy and data security concerns**.
 
-This project focuses on **client-side PDF tools**, where processing happens
-directly in the browser — your files **never leave your device**.
+**pdflinx** aims to provide a safer alternative by focusing on:
+- minimal data handling
+- browser-based processing where possible
+- simple, fast tools without forced signups
 
-### Core Principles
-- ✅ 100% client-side processing
-- ✅ No file uploads
-- ✅ No signup required
-- ✅ Privacy-focused
-- ✅ Free to use
+The goal is to make everyday PDF and utility tools **accessible, transparent, and privacy-aware**.
+
+---
+
+## ✨ Key Highlights
+
+- ✅ No mandatory signup
+- ✅ Fast and easy to use
+- ✅ Privacy-focused approach
+- ✅ Modern web technologies
+- ✅ Free tools for everyday use
+- ✅ Open and transparent project
 
 ---
 
 ## 🛠️ Live Tools
 
-All tools are available at **https://pdflinx.com**
+All tools are available at: **https://pdflinx.com**
 
 ### 📄 PDF Tools
-- PDF to Word Converter  
+- PDF to Word  
   https://pdflinx.com/pdf-to-word
-- Word to PDF Converter  
+- Word to PDF  
   https://pdflinx.com/word-to-pdf
+- Merge PDF  
+  https://pdflinx.com/merge-pdf
+- Split PDF  
+  https://pdflinx.com/split-pdf
+- Compress PDF  
+  https://pdflinx.com/compress-pdf
+- Image to PDF  
+  https://pdflinx.com/image-to-pdf
+- Text to PDF  
+  https://pdflinx.com/text-to-pdf
 
-*(More tools are being added over time.)*
+### 🖼️ Image & Utility Tools
+- Image Compressor  
+  https://pdflinx.com/image-compressor
+- HEIC to JPG  
+  https://pdflinx.com/heic-to-jpg
+- Image Converter  
+  https://pdflinx.com/image-converter
+- QR Code Generator  
+  https://pdflinx.com/qr-generator
+- Password Generator  
+  https://pdflinx.com/password-generator
+- Signature Maker  
+  https://pdflinx.com/signature-maker
+- Unit Converter  
+  https://pdflinx.com/unit-converter
 
 ---
 
 ## 🔒 Privacy & Security
 
-**How it works:**
-1. You select a file in your browser
-2. JavaScript processes it locally
-3. The converted file is downloaded instantly
+pdflinx is designed with privacy in mind.
 
-✔ No server storage  
-✔ No data tracking  
-✔ No backend processing
+**General approach:**
+- Files are processed for conversion only
+- No intentional data storage
+- No tracking of user documents
+- Focus on reducing unnecessary server interaction
 
-This approach makes the tools suitable for **privacy-sensitive documents**.
+This makes the tools suitable for users who prefer **greater control over their files**.
 
 ---
 
 ## 💻 Tech Stack
 
-- **Frontend:** Next.js (React), Tailwind CSS
+- **Frontend:** Next.js (React), modern CSS
 - **Backend / APIs:** Node.js
-- **PDF Processing:** Python-based libraries
-- **Architecture:** Hybrid (client-side + server-side processing)
-- **Hosting:** Vercel (Frontend), Server-side processing as needed
-  
+- **Processing:** Python-based libraries and browser-based tools (depending on the tool)
+- **Architecture:** Hybrid (client-side + server-side processing where required)
+- **Hosting:** Modern cloud / static hosting platforms
+
 ---
 
 ## 🚀 Use Cases
 
-- Convert PDF files without uploading them online
-- Quick document conversions for students & professionals
-- Privacy-safe alternative to traditional online PDF tools
-- Reference project for developers interested in client-side file processing
+- Convert documents quickly without complex software
+- Handle PDFs for study, work, or personal use
+- Reduce file size before sharing
+- Merge or split documents efficiently
+- Use everyday utility tools from one place
 
 ---
 
 ## 🌍 Open Source & Transparency
 
-This repository exists to demonstrate:
-- Privacy-first architecture
-- Client-side document processing
-- No-backend PDF tool design
-
-Transparency helps build **trust** and allows others to learn or contribute.
+This repository exists to:
+- document the project
+- share implementation ideas
+- provide transparency around the tools
+- allow feedback and community contributions
 
 ---
 
 ## 🤝 Contributing
 
-Contributions, suggestions, and feedback are welcome.
+Suggestions and contributions are welcome.
 
 Basic steps:
 1. Fork the repository
@@ -109,4 +140,4 @@ This project is licensed under the **MIT License**.
 
 ---
 
-**Built with ❤️ for users who care about privacy**
+**Built with ❤️ for users who value simplicity and privacy**
