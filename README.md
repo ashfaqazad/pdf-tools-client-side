@@ -55,11 +55,12 @@ This approach makes the tools suitable for **privacy-sensitive documents**.
 
 ## 💻 Tech Stack
 
-- **Frontend:** HTML5, CSS3, JavaScript
-- **PDF Processing:** Browser-based libraries (PDF.js, jsPDF)
-- **Architecture:** 100% static / client-side
-- **Hosting:** Static hosting (e.g. Vercel, Netlify)
-
+- **Frontend:** Next.js (React), Tailwind CSS
+- **Backend / APIs:** Node.js
+- **PDF Processing:** Python-based libraries
+- **Architecture:** Hybrid (client-side + server-side processing)
+- **Hosting:** Vercel (Frontend), Server-side processing as needed
+  
 ---
 
 ## 🚀 Use Cases
